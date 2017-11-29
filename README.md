@@ -13,21 +13,21 @@
 
 ### **Introduction**
 
-This is a ReadMe.md document underlining the collaboration project with Web-media & Photography and how it has developed throughout the past 9 weeks. here I will cover all the details behind the structure of both the EasyJet & Glaze.uk projects, with links to both document, and presentations.
+This is a ReadMe.md document underlining the collaboration project with Web-media & Photography and how it has developed throughout the past 9 weeks. here I will cover all the details behind the structure of both the EasyJet & Glaze.uk projects, with links to both documents, and presentations.
 
 ### **Overview of easyJet (project A)**
 
 For the easyJet rebrand Project I took the lead of the group, as nobody else was interested in doing so other than Conner from the photography group, which translated to a mutual partnership of us both working together and trying to keep the other photography students in line.
 
-We decided to rebrand the the colour scheme of the business side of easyJet to reflect a more proffesional vibe that was then lacking. You can see the reflection of my experience of working with photogrpahy students within my blog, which unfortunatly underlines my struggle with a large chunk of the experience. 
+We decided to rebrand the colour scheme of the business side of easyJet to reflect a more professional vibe that was then lacking. You can see the reflection of my experience of working with photography students within my blog, which unfortunately underlines my struggle with a large chunk of the experience. 
 
-During project "A" I developed all the presentations, large chunk of the branding and most of the research that goes along side everything else. I do have to admit taking pictures for easyJet was rather challenging as we did not have proper access to facilities where we could take photos relating to easyJet business and our theme, making it difficult to purpersfully use images taken by the photograhers within the branding outcome.
+During project "A" I developed all the presentations, large chunk of the branding and most of the research that goes along side everything else. I do have to admit taking pictures for easyJet was rather challenging as we did not have proper access to facilities where we could take photos relating to easyJet business and our theme, making it difficult to purposefully use images taken by the photographers within the branding outcome.
 
-Special thanks go to Conner Reilly, Rokas Juozapavicius and Emma Roberts throughout both the projects, for contributing to the work and showing initiative to the projects. 
+Special thanks go to Conner Reilly, Rokas Juozapavicius and Emma Roberts throughout both the projects, for contributing to the work and showing initiative to the projects.
 
 ### **Overview of glaze.uk (project B)**
 
-The project went off with a good start, as everyone was contributing to the development of the image library concept. We brainstormed a large number of names and chose glaze. It fit well with the topic we chose (**pastry**). Most of the members then contribited to the development of the presentation for introducing our concept to millenium. But I still had to fill in all the empty gaps the presentation lacked, although I wasn't the group leader, due to photography students having to take over. However, this didn't last very long. I had to take the lead once again at managing the project.
+The project went off with a good start, as everyone was contributing to the development of the image library concept. We brainstormed a large number of names and chose glaze. It fit well with the topic we chose (**pastry**). Most of the members then contributed to the development of the presentation for introducing our concept to millennium. But I still had to fill in all the empty gaps the presentation lacked, although I wasn't the group leader, due to photography students having to take over. However, this didn't last very long. I had to take the lead once again at managing the project.
 
 We then developed our image library concept and how our agency would go along side it, while waiting for the photography students to deliver the images.
 
@@ -70,4 +70,8 @@ Here is a link to the blog [**(link to meduim!)**](https://medium.com/series/cre
 * Made the pricing page
 * Populated the website with images and text content
 
+![GitHub Logo](https://github.com/shadzig/DAC15202-Michail-Dzigajev/blob/master/SEO%20glaze%20Image.png?raw=true)
 
+I didn't really touch much of the CSS on this website as Emma took care of the styling and layout for majority of the things with the template, and because I didn't want to interfere with to much of the changes she made. During the time she was doing this I was managing the group and forming [**Task lists**](https://docs.google.com/document/d/1lfD6xPk5seEQ_as5LjVD0A21InMw1asO-pkyKWNWLC0/edit?usp=sharing), whilst also doing a large chunk of the research and coming up with the business structure.
+
+[**Backup of files on GitHub**](https://github.com/shadzig/DAC15202-Michail-Dzigajev)
