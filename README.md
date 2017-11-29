@@ -60,3 +60,14 @@ Here is a link to the blog [**(link to meduim!)**](https://medium.com/series/cre
 
 ### [**WEBSITE LINK!**](http://glaze.raveweb.net/)
 ![GitHub Logo](http://glaze.raveweb.net/wp-content/uploads/2017/11/glaze-logos-final-1-1.png)
+#### **What did I do on the website?**
+* Added SEO optimisation
+* Added Caching to speed up the website
+* Added WOT support (plugin) by importing HTML and confirming website ownership
+* Made minor changes to the footer
+* Made some changes to the the shop (categories and pricing mainly)
+* Made the photographers page + sub links to their profiles
+* Made the pricing page
+* Populated the website with images and text content
+
+
