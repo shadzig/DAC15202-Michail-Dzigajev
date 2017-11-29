@@ -25,6 +25,21 @@ During project "A" I developed all the presentations, large chunk of the brandin
 
 Special thanks go to Conner Reilly, Rokas Juozapavicius and Emma Roberts throughout both the projects, for contributing to the work and showing initiative to the projects.
 
+##### **What I did:** All of which is present in the Package list
+* Research (available to view on the presentation)
+* Both the presentations
+* Website templates
+* Branding
+* Logos
+* EasyHotel rebrand
+* Plane exterior 
+* Merchendise
+* Video
+* Slogans
+* Colour scheme
+* Banners
+* questionnaire
+
 ### **Overview of glaze.uk (project B)**
 
 The project went off with a good start, as everyone was contributing to the development of the image library concept. We brainstormed a large number of names and chose glaze. It fit well with the topic we chose (**pastry**). Most of the members then contributed to the development of the presentation for introducing our concept to millennium. But I still had to fill in all the empty gaps the presentation lacked, although I wasn't the group leader, due to photography students having to take over. However, this didn't last very long. I had to take the lead once again at managing the project.
